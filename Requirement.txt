@@ -1,0 +1,17 @@
+Task 2
+Short Description:- To create a model that detects the age and gender of a person usinng the webcam of the device and detect the age and indicate if Senior citizen or not if age is greater than 60.
+
+Libraries Required:-
+1. OpenCV
+2. Face Detection
+3. Age and Gender Detection
+4. numpy
+5. pandas
+6. matplotlib
+7. tensorflow
+8. keras
+9. sklearn
+
+Note:-  This is a basic model and may not be accurate for all cases. Still the accuracy  is around 90% for the dataset used.
+
+
